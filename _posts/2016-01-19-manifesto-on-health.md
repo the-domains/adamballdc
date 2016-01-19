@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A guiding framework to develop a healthy mind, body and spirit'
-datePublished: '2016-01-19T17:22:18.694Z'
+datePublished: '2016-01-19T17:22:18.846Z'
 dateModified: '2016-01-19T17:22:15.106Z'
 title: Manifesto on Health
 author: []
