@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'A guiding framework to develop a healthy mind, body and spirit'
-datePublished: '2016-01-19T17:15:32.199Z'
-dateModified: '2016-01-19T17:15:04.876Z'
+datePublished: '2016-01-19T17:22:18.694Z'
+dateModified: '2016-01-19T17:22:15.106Z'
 title: Manifesto on Health
 author: []
+sourcePath: _posts/2016-01-19-manifesto-on-health.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-manifesto-on-health.md
-published: true
 url: manifesto-on-health/index.html
 _type: Article
 
